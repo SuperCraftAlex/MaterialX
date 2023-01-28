@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "materialx:ai_5052_block",
+    "materialx:ai_5083_block",
+    "materialx:ai_6061_block"
+  ]
+}

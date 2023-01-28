@@ -1,0 +1,23 @@
+{
+  "itemGroup.materialx": "MaterialX",
+
+  "block.materialx.ai_2014_block": "Aluminium Alloy: AI 2014",
+  "block.materialx.ai_2024_block": "Aluminium Alloy: AI 2024",
+  "block.materialx.ai_5052_block": "Aluminium Alloy: AI 5052",
+  "block.materialx.ai_5083_block": "Aluminium Alloy: AI 5083",
+  "block.materialx.ai_6061_block": "Aluminium Alloy: AI 6061",
+  "block.materialx.ai_7075_block": "Aluminium Alloy: AI 7075",
+
+  "block.materialx.astm_A105": "Carbon / Alloy Steel: ASTM_A105",
+  "block.materialx.astm_A302": "Carbon / Alloy Steel: ASTM_A302",
+  "block.materialx.astm_A514": "Carbon / Alloy Steel: ASTM_A514",
+  "block.materialx.aisi_4130": "Carbon / Alloy Steel: AISI_4130",
+  "block.materialx.api-5ct_j55": "Carbon / Alloy Steel: API-5CT_J55",
+  "block.materialx.api-5ct_q125": "Carbon / Alloy Steel: API-5CT_Q125",
+  "block.materialx.sae_j429": "Carbon / Alloy Steel: SAE_J429",
+  "block.materialx.s185": "Carbon / Alloy Steel: S185",
+  "block.materialx.s235": "Carbon / Alloy Steel: S235",
+  "block.materialx.s275": "Carbon / Alloy Steel: S275",
+  "block.materialx.e295": "Carbon / Alloy Steel: E295"
+
+}
