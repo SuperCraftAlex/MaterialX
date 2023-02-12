@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "materialx:astm_a105_block",
+    "materialx:astm_a302_block",
+    "materialx:astm_a514_block",
+    "materialx:aisi_4130_block",
+    "materialx:api-5ct_j55_block",
+    "materialx:api-5ct_q125_block",
+    "materialx:sae_j429_block",
+    "materialx:s185_block",
+    "materialx:s235_block",
+    "materialx:s275_block",
+    "materialx:e295_block"
+  ]
+}
